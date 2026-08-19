@@ -1,0 +1,523 @@
+{
+    "meta":  {
+                 "videoBase":  "https://raw.githubusercontent.com/technextmarketing/technext-social-assets/main/reels0818/",
+                 "orgId":  "69d0c2461c3d1fa55c0f4d77",
+                 "channels":  {
+                                  "linkedin":  {
+                                                   "id":  "69d7d6cc031bfa423ce78b4d",
+                                                   "name":  "technextasia",
+                                                   "timeSGT":  "18:00",
+                                                   "utc":  "10:00"
+                                               },
+                                  "facebook":  {
+                                                   "id":  "69d7d6fc031bfa423ce78bf4",
+                                                   "name":  "TechNext",
+                                                   "timeSGT":  "19:00",
+                                                   "utc":  "11:00"
+                                               },
+                                  "instagram":  {
+                                                    "id":  "69d3d034031bfa423cd5dba8",
+                                                    "name":  "technextasia",
+                                                    "timeSGT":  "20:00",
+                                                    "utc":  "12:00"
+                                                }
+                              }
+             },
+    "posts":  [
+                  {
+                      "day":  1,
+                      "date":  "2026-08-31",
+                      "dow":  "Mon",
+                      "video":  "v09",
+                      "title":  "You have 6 systems. Odoo replaces all of them.",
+                      "theme":  "Consolidation",
+                      "linkedin":  "Six logins. Six passwords. Six versions of the truth.\n\nMost SMEs didn\u0027t choose a fragmented stack — they grew into one, adding a tool at a time until nothing spoke to anything else.\n\nOdoo replaces the lot with one system where sales, stock, invoicing and CRM share the same data.\n\nTechNext is an Odoo Ready Partner. Book a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #DigitalTransformation #SingaporeBusiness #BusinessAutomation",
+                      "facebook":  "Six systems. Six logins. Six versions of the truth. 😵‍💫\n\nOdoo replaces all of them with one platform — sales, stock, invoicing and CRM sharing the same data.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #TechNext #SingaporeBusiness #BusinessAutomation #SMESingapore",
+                      "instagram":  "You have 6 systems. Odoo replaces all of them. 🔄\n\nOne platform. One login. One version of the truth.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #BusinessGrowth #TechForBusiness #Productivity #Reels"
+                  },
+                  {
+                      "day":  2,
+                      "date":  "2026-09-01",
+                      "dow":  "Tue",
+                      "video":  "v18",
+                      "title":  "Still using spreadsheets?",
+                      "theme":  "Spreadsheets",
+                      "linkedin":  "The spreadsheet worked when there were twenty rows and one person editing it.\n\nAt two hundred rows and four people it becomes a source of quiet errors nobody can trace — the broken formula, the row someone sorted, the version saved to a desktop.\n\nOdoo gives you the same numbers with an audit trail behind them.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #Spreadsheets #SingaporeBusiness #DigitalTransformation",
+                      "facebook":  "Still running the business on spreadsheets? 📊\n\nThey work at 20 rows. At 200 rows and 4 editors they quietly break — and nobody can trace when.\n\nOdoo gives you the same numbers, with an audit trail behind them.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #Spreadsheets #TechNext #SingaporeBusiness #SmallBusiness",
+                      "instagram":  "Still using spreadsheets? 😩\n\nThey work at 20 rows.\nAt 200 rows and 4 editors they break quietly — and nobody can trace when.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Spreadsheets #ExcelProblems #ERP #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Productivity #Reels"
+                  },
+                  {
+                      "day":  3,
+                      "date":  "2026-09-02",
+                      "dow":  "Wed",
+                      "video":  "v29",
+                      "title":  "Smart restaurants already run on Odoo ERP",
+                      "theme":  "F\u0026B",
+                      "linkedin":  "The restaurants pulling ahead aren\u0027t the ones with the biggest menu. They\u0027re the ones where the till, the kitchen and the store room are the same system.\n\nAn order rings in, the kitchen display shows it, the ingredients draw down, and the day\u0027s numbers are already done by close.\n\nTechNext is an Odoo Ready Partner. Book a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #RestaurantTech #FnB #PointOfSale #SingaporeBusiness",
+                      "facebook":  "Smart restaurants already run on Odoo ERP. 🍽️\n\nTill, kitchen display and store room — one system. The order rings in, the kitchen sees it, the ingredients draw down, and the day\u0027s numbers are done by close.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #RestaurantTech #FnB #PointOfSale #TechNext #SingaporeBusiness",
+                      "instagram":  "Smart restaurants already run on Odoo ERP. 🍽️\n\nTill → kitchen → store room.\nOne system. Numbers done by close.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #RestaurantTech #FnB #PointOfSale #RestaurantManagement #RestaurantOwner #FoodAndBeverage #HospitalityTech #SingaporeBusiness #SGBusiness #SMESingapore #SGFood #Reels"
+                  },
+                  {
+                      "day":  4,
+                      "date":  "2026-09-03",
+                      "dow":  "Thu",
+                      "video":  "v05",
+                      "title":  "AI isn\u0027t the future. It\u0027s right now.",
+                      "theme":  "AI",
+                      "linkedin":  "\"We\u0027ll look at AI next year\" is starting to sound the way \"we\u0027ll look at email next year\" did in 1998.\n\nThe businesses winning today aren\u0027t waiting to figure AI out. They\u0027re already using it — reading supplier bills, drafting replies, flagging the orders that need a human.\n\nIt\u0027s built into Odoo. You don\u0027t need a data team to switch it on.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #AI #Automation #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "AI isn\u0027t the future. It\u0027s right now. 🤖\n\nThe businesses winning today aren\u0027t waiting to \"figure out\" AI — they\u0027re already using it to read bills, draft replies and flag what needs a human.\n\nIt\u0027s built into Odoo. No data team required.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #AI #Automation #TechNext #SingaporeBusiness #DigitalTransformation",
+                      "instagram":  "AI isn\u0027t the future. It\u0027s right now. 🤖\n\nYour competitors aren\u0027t waiting to \"figure it out\" — they\u0027re already using it.\n\nBuilt into Odoo. No data team required.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #AI #ArtificialIntelligence #Automation #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #TechForBusiness #FutureOfWork #Reels"
+                  },
+                  {
+                      "day":  5,
+                      "date":  "2026-09-04",
+                      "dow":  "Fri",
+                      "video":  "v20",
+                      "title":  "Your stock count shouldn\u0027t be a guessing game",
+                      "theme":  "Inventory",
+                      "linkedin":  "If your stock figure is a guess, every decision downstream is a guess too — what to reorder, what to promote, what you can safely promise a customer.\n\nOdoo keeps one real-time count across every channel and shelf. The website, the shop floor and the store room read from the same number.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #InventoryManagement #Retail #SupplyChain #SingaporeBusiness",
+                      "facebook":  "Your stock count shouldn\u0027t be a guessing game. 📦\n\nIf the number is a guess, so is every decision after it — what to reorder, what to promote, what you can promise a customer.\n\nOdoo keeps one real-time count across every channel and shelf.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #InventoryManagement #Retail #TechNext #SingaporeBusiness #StockControl",
+                      "instagram":  "Your stock count shouldn\u0027t be a guessing game. 📦\n\nOne real-time number across every channel and shelf.\n\nWebsite. Shop floor. Store room. Same figure. ✅\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #InventoryManagement #StockControl #Retail #SupplyChain #Warehouse #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  6,
+                      "date":  "2026-09-05",
+                      "dow":  "Sat",
+                      "video":  "v03",
+                      "title":  "Let us do the magic for your website",
+                      "theme":  "Website",
+                      "linkedin":  "A website that only looks good is a brochure. A website wired into your business is a channel.\n\nWe build sites on Odoo so the pages, the products, the bookings and the invoices are one system — not a design handed over to a team that then has to re-key every order.\n\nTechNext is an Odoo Ready Partner. Book a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #WebDesign #Ecommerce #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "Let us do the magic for your website. ✨\n\nA site that only looks good is a brochure. A site wired into your business is a channel.\n\nWe build on Odoo — pages, products, bookings and invoices all one system. No re-keying orders.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #WebDesign #WebsiteDesign #Ecommerce #TechNext #SingaporeBusiness",
+                      "instagram":  "Let us do the magic for your website ✨\n\nA site that only looks good is a brochure.\nA site wired into your business is a channel.\n\nPages, products, bookings, invoices — one system.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #WebDesign #WebsiteDesign #WebDevelopment #Ecommerce #OnlineStore #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  7,
+                      "date":  "2026-09-06",
+                      "dow":  "Sun",
+                      "video":  "v15",
+                      "title":  "Stop chasing invoices",
+                      "theme":  "Finance",
+                      "linkedin":  "Chasing payment is the least valuable work in any business, and it always lands on the person who can least afford the time.\n\nOdoo issues the invoice, sends the reminder on schedule, and matches the payment when it arrives — so \"who still owes us?\" is a screen you glance at, not an afternoon you set aside.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Accounting #CashFlow #FinanceAutomation #SingaporeBusiness",
+                      "facebook":  "Stop chasing invoices. Let Odoo handle billing. 💸\n\nIt issues the invoice, sends the reminder on schedule, and matches the payment when it lands.\n\n\"Who still owes us?\" becomes a screen you glance at — not an afternoon you set aside.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Accounting #CashFlow #TechNext #SingaporeBusiness #Bookkeeping",
+                      "instagram":  "Stop chasing invoices. 💸\n\nOdoo issues it → reminds them → matches the payment.\n\n\"Who still owes us?\" = a glance, not an afternoon.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Accounting #Bookkeeping #Invoicing #CashFlow #GetPaid #FinanceAutomation #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  8,
+                      "date":  "2026-09-07",
+                      "dow":  "Mon",
+                      "video":  "v44",
+                      "title":  "The all-in-one software for manufacturing",
+                      "theme":  "Manufacturing",
+                      "linkedin":  "Manufacturing breaks when the plan, the floor and the store room are three different conversations.\n\nOdoo runs work orders, bills of materials, quality checks and inventory in one place — so a delay on the floor shows up in the schedule immediately, not at the end of the week.\n\nTechNext is an Odoo Ready Partner. Book a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Manufacturing #MRP #SupplyChain #SingaporeBusiness",
+                      "facebook":  "The all-in-one software for manufacturing. 🏭\n\nWork orders, bills of materials, quality checks and inventory — one system.\n\nSo a delay on the floor shows up in the schedule immediately, not at the end of the week.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Manufacturing #MRP #TechNext #SingaporeBusiness #SupplyChain",
+                      "instagram":  "The all-in-one software for manufacturing. 🏭\n\n📋 Work orders\n🧾 Bills of materials\n✅ Quality checks\n📦 Inventory\n\nOne system. Delays surface instantly, not on Friday.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Manufacturing #MRP #ProductionPlanning #SupplyChain #FactoryLife #Industry40 #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  9,
+                      "date":  "2026-09-08",
+                      "dow":  "Tue",
+                      "video":  "v04",
+                      "title":  "Your office is now in your pocket",
+                      "theme":  "Mobile",
+                      "linkedin":  "The decisions that hold a business up rarely wait until you\u0027re back at a desk.\n\nThe Odoo mobile app runs the actual business — approve the quote, check the stock figure, sign off the expense, see today\u0027s sales — from wherever you are.\n\nNot a dashboard that shows you numbers. The system itself.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #MobileFirst #ERP #Productivity #SingaporeBusiness",
+                      "facebook":  "Your office is now in your pocket. 📱\n\nApprove the quote. Check the stock. Sign off the expense. See today\u0027s sales.\n\nThe Odoo mobile app doesn\u0027t just show you numbers — it runs the business.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #MobileApp #ERP #TechNext #SingaporeBusiness #Productivity",
+                      "instagram":  "Your office is now in your pocket. 📱\n\n✅ Approve the quote\n📦 Check the stock\n🧾 Sign off the expense\n📊 See today\u0027s sales\n\nNot a dashboard. The actual system.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #MobileApp #RemoteWork #ERP #BusinessAutomation #Productivity #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  10,
+                      "date":  "2026-09-09",
+                      "dow":  "Wed",
+                      "video":  "v28",
+                      "title":  "Give your guests a 24/7 assistant",
+                      "theme":  "Hospitality",
+                      "linkedin":  "Great service isn\u0027t about being busy. It\u0027s about being there.\n\nGuests ask at midnight, book on a Sunday, and change plans on the way to the airport. An Odoo-powered assistant handles the booking, the confirmation and the routine question at the moment it\u0027s asked — so your team spends its attention on the guest in front of them.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Hospitality #CustomerExperience #HotelTech #SingaporeBusiness",
+                      "facebook":  "Give your guests a 24/7 assistant. 🛎️\n\nGreat service isn\u0027t about being busy — it\u0027s about being there.\n\nGuests ask at midnight and book on Sundays. Odoo handles the booking, the confirmation and the routine question the moment it\u0027s asked.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Hospitality #HotelTech #TechNext #SingaporeBusiness #CustomerExperience",
+                      "instagram":  "Give your guests a 24/7 assistant. 🛎️\n\nGreat service isn\u0027t about being busy.\nIt\u0027s about being there.\n\nMidnight questions. Sunday bookings. Handled.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Hospitality #HotelTech #HotelManagement #CustomerExperience #CustomerService #GuestExperience #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  11,
+                      "date":  "2026-09-10",
+                      "dow":  "Thu",
+                      "video":  "v21",
+                      "title":  "From 5 different spreadsheets to Odoo ERP",
+                      "theme":  "Spreadsheets",
+                      "linkedin":  "CRM in one sheet. Inventory in another. POS totals typed in by hand. Accounting somewhere else entirely.\n\nFive spreadsheets isn\u0027t five tools — it\u0027s five chances for the same number to be wrong in five different ways.\n\nOdoo collapses them into one system where the number is entered once and read everywhere.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #Spreadsheets #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "From 5 different spreadsheets → to one Odoo ERP. 📊\n\nCRM in one sheet. Inventory in another. POS typed in by hand. Accounting elsewhere.\n\nThat\u0027s not five tools — it\u0027s five chances for the same number to be wrong.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #Spreadsheets #TechNext #SingaporeBusiness #BusinessAutomation",
+                      "instagram":  "From 5 different spreadsheets → to Odoo ERP 📊\n\nCRM. Inventory. POS. Accounting. Sales.\n\nFive sheets = five chances for the same number to be wrong.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Spreadsheets #ExcelProblems #ERP #CRM #InventoryManagement #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  12,
+                      "date":  "2026-09-11",
+                      "dow":  "Fri",
+                      "video":  "v13",
+                      "title":  "Orders are coming in. Can your system keep up?",
+                      "theme":  "Scaling",
+                      "linkedin":  "Growth doesn\u0027t break a business gently. It breaks it at the seam that was already weakest — usually the manual step everyone had learned to work around.\n\nMore orders means more of that step, until the thing that made you successful is the thing you can\u0027t fulfil.\n\nOdoo takes the manual step out before volume finds it.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #BusinessGrowth #Operations #SingaporeBusiness",
+                      "facebook":  "Orders are coming in. Can your system keep up? 📈\n\nGrowth breaks a business at whatever seam was already weakest — usually the manual step everyone learned to work around.\n\nMore orders just means more of that step.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #BusinessGrowth #TechNext #SingaporeBusiness #Operations",
+                      "instagram":  "Orders are coming in. 📈\nCan your system keep up?\n\nGrowth breaks you at the weakest seam — usually the manual step everyone works around.\n\nMore orders = more of that step.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #BusinessGrowth #ScalingUp #Operations #Efficiency #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  13,
+                      "date":  "2026-09-12",
+                      "dow":  "Sat",
+                      "video":  "v32",
+                      "title":  "Stop letting admin tasks eat your time",
+                      "theme":  "Automation",
+                      "linkedin":  "Nobody started a business to spend Thursday copying numbers between screens.\n\nYet that is where a startling share of a small team\u0027s week goes — re-entering the order, chasing the approval, rebuilding the same report.\n\nOdoo automates the routine so the work that actually needs a person gets a person.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Automation #Productivity #ERP #SingaporeBusiness",
+                      "facebook":  "Stop letting admin tasks eat your time. ⏰\n\nNobody started a business to spend Thursday copying numbers between screens.\n\nLet Odoo do the work — so the tasks that actually need a person get one.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Automation #Productivity #TechNext #SingaporeBusiness #BusinessAutomation",
+                      "instagram":  "Stop letting admin tasks eat your time. ⏰\n\nNobody started a business to copy numbers between screens on a Thursday.\n\nLet Odoo do the work. 🤖\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Automation #BusinessAutomation #Productivity #TimeManagement #WorkSmarter #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  14,
+                      "date":  "2026-09-13",
+                      "dow":  "Sun",
+                      "video":  "v23",
+                      "title":  "Selling items on TikTok that are out of stock?",
+                      "theme":  "Ecommerce",
+                      "linkedin":  "Selling something you can\u0027t ship is worse than not selling it. You have paid for the reach, taken the money, and bought yourself a refund and a bad review.\n\nIt happens when the shop, the marketplace and the store room each keep their own count.\n\nOdoo keeps one. Every listing reflects real stock, automatically.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Ecommerce #InventoryManagement #Retail #SingaporeBusiness",
+                      "facebook":  "Selling items on TikTok that are actually out of stock? Fix that today. 🛒\n\nSelling what you can\u0027t ship is worse than not selling it — you have paid for the reach and bought a refund and a bad review.\n\nOdoo makes every listing reflect real stock, automatically.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Ecommerce #TikTokShop #InventoryManagement #TechNext #SingaporeBusiness",
+                      "instagram":  "Selling items on TikTok that are actually out of stock? 😬\n\nFix that today.\n\nSelling what you can\u0027t ship = paid reach + a refund + a bad review.\n\nEvery listing reflects real stock, automatically. ✅\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #TikTokShop #Ecommerce #OnlineSelling #InventoryManagement #StockControl #Retail #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  15,
+                      "date":  "2026-09-14",
+                      "dow":  "Mon",
+                      "video":  "v07",
+                      "title":  "Grow with Odoo ERP",
+                      "theme":  "Growth",
+                      "linkedin":  "Most systems make growth expensive. Every new hire is another licence, every new line of business another tool to buy and connect.\n\nOdoo is modular — you switch on what you need when you need it, and it is already wired to everything you are running.\n\nThe system stops being the reason you can\u0027t say yes.\n\nTechNext is an Odoo Ready Partner. Book a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #BusinessGrowth #ERP #Scaling #SingaporeBusiness",
+                      "facebook":  "Grow with Odoo ERP. 🚀\n\nMost systems make growth expensive — every new line of business is another tool to buy and connect.\n\nOdoo is modular. Switch on what you need, already wired to everything else.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #BusinessGrowth #ERP #TechNext #SingaporeBusiness #Scaling",
+                      "instagram":  "Grow your business with Odoo ERP 🚀\n\nMost systems make growth expensive.\n\nOdoo is modular — switch on what you need, already wired to everything else.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #BusinessGrowth #ScalingUp #ERP #Entrepreneur #StartupSG #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  16,
+                      "date":  "2026-09-15",
+                      "dow":  "Tue",
+                      "video":  "v19",
+                      "title":  "Onboard a client without the paper chase",
+                      "theme":  "Professional services",
+                      "linkedin":  "The first week of a client relationship sets the tone for all of it. Which is unfortunate, because for most firms the first week is a paper chase — engagement letter, KYC documents, a folder someone has to remember to create.\n\nOdoo automates that sequence end to end. The client signs, the file is opened, the checklist runs itself.\n\nYou get to spend the first week on the work, not the admin.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ProfessionalServices #ClientOnboarding #Automation #SingaporeBusiness",
+                      "facebook":  "Onboard a client without the paper chase. 📁\n\nEngagement letters, KYC and file setup — automated end to end.\n\nThe client signs, the file opens, the checklist runs itself. You spend week one on the work, not the admin.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ClientOnboarding #ProfessionalServices #TechNext #SingaporeBusiness #Automation",
+                      "instagram":  "Onboard a client without the paper chase. 📁\n\n✍️ Engagement letters\n🪪 KYC\n🗂️ File setup\n\nAutomated end to end.\n\nSpend week one on the work, not the admin.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ClientOnboarding #ProfessionalServices #LegalTech #Accounting #Automation #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  17,
+                      "date":  "2026-09-16",
+                      "dow":  "Wed",
+                      "video":  "v27",
+                      "title":  "Every department, one dashboard",
+                      "theme":  "Consolidation",
+                      "linkedin":  "Ask four departments how the business is doing and you get four answers, each true inside its own system.\n\nOdoo puts sales, inventory, accounting, HR, projects and CRM on one dashboard reading one set of records. The meeting stops being about whose number is right.\n\nOne tool replaces ten.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #Dashboard #BusinessIntelligence #SingaporeBusiness",
+                      "facebook":  "Every department, one dashboard. 📊\n\nAsk four departments how the business is doing and you get four answers — each true inside its own system.\n\nOdoo puts sales, stock, accounting, HR and CRM on one screen reading one set of records.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #Dashboard #TechNext #SingaporeBusiness #BusinessIntelligence",
+                      "instagram":  "Every department, one dashboard. 📊\n\nOne tool replaces ten.\n\nSales • Stock • Accounting • HR • Projects • CRM\n\nAll reading the same records.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #Dashboard #BusinessIntelligence #DataDriven #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  18,
+                      "date":  "2026-09-17",
+                      "dow":  "Thu",
+                      "video":  "v31",
+                      "title":  "Peak season is coming. Is your system ready?",
+                      "theme":  "Hospitality",
+                      "linkedin":  "Peak season doesn\u0027t create new problems. It magnifies the ones you tolerated in the quiet months.\n\nThe double booking that was rare becomes weekly. The manual handover that mostly worked starts dropping guests. The stock count you did by eye stops being close enough.\n\nThe time to fix the system is the month before, not the week during.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Hospitality #HotelTech #Operations #SingaporeBusiness",
+                      "facebook":  "Peak season is coming. Is your system READY? 🏨\n\nPeak season doesn\u0027t create new problems — it magnifies the ones you tolerated in the quiet months.\n\nThe rare double booking becomes weekly. The manual handover starts dropping guests.\n\nFix it the month before, not the week during.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Hospitality #HotelTech #TechNext #SingaporeBusiness #Operations",
+                      "instagram":  "Peak season is coming. 🏨\nIs your system READY?\n\nPeak doesn\u0027t create new problems.\nIt magnifies the ones you tolerated in the quiet months.\n\nFix it the month before — not the week during.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Hospitality #HotelTech #HotelManagement #PeakSeason #Operations #GuestExperience #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  19,
+                      "date":  "2026-09-18",
+                      "dow":  "Fri",
+                      "video":  "v43",
+                      "title":  "Your competitors are already using AI",
+                      "theme":  "AI",
+                      "linkedin":  "Not in a lab. In the quote that went out an hour before yours, the supplier bill that was posted without anyone typing it, and the customer reply that landed at 11pm.\n\nAI stopped being a strategic project and became a default setting. It is in Odoo already.\n\nThe gap it opens is not dramatic. It is just steady, and it compounds.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #AI #Automation #Competitiveness #SingaporeBusiness",
+                      "facebook":  "Your competitors are already using AI. 🤖\n\nNot in a lab — in the quote that went out an hour before yours, and the bill posted without anyone typing it.\n\nIt is already in Odoo. The gap it opens isn\u0027t dramatic. It just compounds.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #AI #Automation #TechNext #SingaporeBusiness #DigitalTransformation",
+                      "instagram":  "Your competitors are already using AI. 🤖\n\nNot in a lab.\n\nIn the quote that went out an hour before yours.\nIn the bill posted without anyone typing it.\n\nIt\u0027s already in Odoo.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #AI #ArtificialIntelligence #Automation #BusinessAutomation #Competitive #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #TechForBusiness #Reels"
+                  },
+                  {
+                      "day":  20,
+                      "date":  "2026-09-19",
+                      "dow":  "Sat",
+                      "video":  "v24",
+                      "title":  "Sync your POS with inventory and accounts",
+                      "theme":  "Retail",
+                      "linkedin":  "A till that only takes money is doing a third of its job.\n\nWhen the POS is part of the same system as stock and accounting, every sale does three things at once: takes payment, draws down the item, and posts to the books.\n\nBy closing time the day is already reconciled. Nobody stays late to make three systems agree.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #PointOfSale #Retail #Accounting #SingaporeBusiness",
+                      "facebook":  "Sync your POS with inventory and accounts. 🧾\n\nEvery sale updates your stock and your books instantly.\n\nBy closing time the day is already reconciled — nobody stays late making three systems agree.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #PointOfSale #Retail #TechNext #SingaporeBusiness #Accounting",
+                      "instagram":  "Sync your POS with inventory \u0026 accounts. 🧾\n\nOne sale does three things:\n💳 Takes payment\n📦 Draws down the stock\n📊 Posts to the books\n\nDay reconciled by closing time.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #PointOfSale #POS #Retail #RetailTech #InventoryManagement #Accounting #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  21,
+                      "date":  "2026-09-20",
+                      "dow":  "Sun",
+                      "video":  "v02",
+                      "title":  "Less meetings. More progress.",
+                      "theme":  "Productivity",
+                      "linkedin":  "A surprising number of meetings exist only to synchronise information that a shared system would have synchronised for free.\n\nWhen sales, operations and finance are reading the same live record, the status update stops being a meeting and becomes a screen.\n\nTeams using Odoo spend less time syncing and more time doing.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Productivity #Teamwork #ERP #SingaporeBusiness",
+                      "facebook":  "Less meetings. More progress. ⚡\n\nA lot of meetings exist only to sync information a shared system would have synced for free.\n\nTeams using Odoo spend less time syncing and more time doing.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Productivity #Teamwork #TechNext #SingaporeBusiness #BusinessAutomation",
+                      "instagram":  "Less meetings. More progress. ⚡\n\nMost status meetings exist to sync info a shared system would sync for free.\n\nTeams on Odoo spend less time syncing, more time doing.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Productivity #Teamwork #WorkSmarter #Meetings #Efficiency #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  22,
+                      "date":  "2026-09-21",
+                      "dow":  "Mon",
+                      "video":  "v35",
+                      "title":  "Smooth production workflow for your business",
+                      "theme":  "Manufacturing",
+                      "linkedin":  "A production line is only as smooth as its worst handover.\n\nOdoo Manufacturing sequences the work orders, reserves the components, and moves the job from station to station without anyone walking a piece of paper across the floor.\n\nEveryone can see what is running, what is next, and what is waiting on something.\n\nTechNext is an Odoo Ready Partner. Book a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Manufacturing #MRP #Operations #SingaporeBusiness",
+                      "facebook":  "Smooth production workflow for your business! 🏭\n\nA line is only as smooth as its worst handover.\n\nOdoo sequences the work orders, reserves the components and moves the job station to station — no paper walked across the floor.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Manufacturing #MRP #TechNext #SingaporeBusiness #Operations",
+                      "instagram":  "Smooth production workflow for your business! 🏭\n\nA line is only as smooth as its worst handover.\n\n📋 Work orders sequenced\n📦 Components reserved\n➡️ Job moves station to station\n\nNo paper walked across the floor.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Manufacturing #MRP #ProductionPlanning #FactoryLife #Industry40 #Operations #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  23,
+                      "date":  "2026-09-22",
+                      "dow":  "Tue",
+                      "video":  "v33",
+                      "title":  "Track your purchases properly",
+                      "theme":  "Purchasing",
+                      "linkedin":  "Purchasing goes wrong quietly. A request nobody acknowledged, a quote sitting in an inbox, an order placed twice because two people were solving the same shortage.\n\nOdoo puts every request, RFQ and purchase order in one pipeline with a status attached — so you can see what has been asked for, what has been agreed, and what is genuinely on its way.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Procurement #Purchasing #SupplyChain #SingaporeBusiness",
+                      "facebook":  "Track your purchases properly using Odoo ERP. 📋\n\nPurchasing goes wrong quietly — a request nobody acknowledged, a quote in an inbox, an order placed twice.\n\nOdoo puts every request, RFQ and PO in one pipeline with a status attached.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Procurement #Purchasing #TechNext #SingaporeBusiness #SupplyChain",
+                      "instagram":  "Track your purchases properly using Odoo ERP 📋\n\nPurchasing goes wrong quietly:\n❌ A request nobody acknowledged\n❌ A quote lost in an inbox\n❌ An order placed twice\n\nOne pipeline. Every status visible.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Procurement #Purchasing #SupplyChain #VendorManagement #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  24,
+                      "date":  "2026-09-23",
+                      "dow":  "Wed",
+                      "video":  "v12",
+                      "title":  "Your clients expect professionalism. Does your backend match?",
+                      "theme":  "Credibility",
+                      "linkedin":  "Clients judge your operation by the parts they touch: the quote that took three days, the invoice with last month\u0027s address, the reply that had to wait for someone to check.\n\nThey never see the spreadsheet behind it. They just draw a conclusion about how you run things.\n\nA polished front end on a manual back office is a promise you have to keep by hand, every time.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #CustomerExperience #ERP #Professionalism #SingaporeBusiness",
+                      "facebook":  "Your clients expect professionalism. Does your backend match? 🤔\n\nThey judge you by the quote that took three days and the invoice with last month\u0027s address.\n\nThey never see the spreadsheet behind it — they just draw a conclusion.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #CustomerExperience #ERP #TechNext #SingaporeBusiness #BusinessAutomation",
+                      "instagram":  "Clients expect professionalism. 🤔\nDoes your backend match?\n\nThey judge you by:\n⏳ The quote that took 3 days\n📄 The invoice with last month\u0027s address\n\nThey never see the spreadsheet. They just draw a conclusion.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #CustomerExperience #ClientExperience #Professionalism #ERP #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  25,
+                      "date":  "2026-09-24",
+                      "dow":  "Thu",
+                      "video":  "v08",
+                      "title":  "A clear view of your entire operation, from your phone",
+                      "theme":  "Mobile",
+                      "linkedin":  "There is a particular kind of stress that comes from not knowing — whether the delivery went out, whether the invoice was paid, whether today was a good day.\n\nMost owners resolve it by phoning someone and interrupting them.\n\nOdoo puts the whole operation on your phone: live, current, and answerable without asking anyone.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #MobileFirst #ERP #BusinessOwner #SingaporeBusiness",
+                      "facebook":  "A clear view of your entire operation — from your phone. 📱\n\nDid the delivery go out? Was the invoice paid? Was today a good day?\n\nMost owners answer those by phoning someone and interrupting them. Odoo just shows you.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #MobileApp #ERP #TechNext #SingaporeBusiness #BusinessOwner",
+                      "instagram":  "A clear view of your entire operation — from your phone. 📱\n\nDid the delivery go out?\nWas the invoice paid?\nWas today a good day?\n\nStop phoning someone to find out.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #MobileApp #BusinessOwner #Entrepreneur #ERP #RemoteWork #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  26,
+                      "date":  "2026-09-25",
+                      "dow":  "Fri",
+                      "video":  "v30",
+                      "title":  "Automated alerts before small problems get big",
+                      "theme":  "Operations",
+                      "linkedin":  "A leaking tap in room 214 is a five-minute job on Monday and a ceiling repair by Friday.\n\nThe difference is whether anyone was told.\n\nOdoo turns a report into a routed, tracked, timestamped job the moment it is raised — so the small thing gets handled while it is still small.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Maintenance #HotelTech #Operations #SingaporeBusiness",
+                      "facebook":  "Automated alerts before small problems get big! 🔔\n\nA leaking tap in room 214 is a five-minute job on Monday and a ceiling repair by Friday.\n\nThe difference is whether anyone was told. Odoo routes and tracks it the moment it is raised.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Maintenance #HotelTech #TechNext #SingaporeBusiness #Operations",
+                      "instagram":  "Automated alerts before small problems get big. 🔔\n\nA leaking tap in room 214:\n🔧 Monday = 5-minute job\n💸 Friday = ceiling repair\n\nThe difference is whether anyone was told.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Maintenance #FacilityManagement #HotelTech #Hospitality #Operations #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  27,
+                      "date":  "2026-09-26",
+                      "dow":  "Sat",
+                      "video":  "v41",
+                      "title":  "Spreadsheets don\u0027t scale. Odoo ERP does.",
+                      "theme":  "Spreadsheets",
+                      "linkedin":  "A spreadsheet has no concept of a second user, a permission, or a history. That is fine at ten transactions a week and untenable at a thousand.\n\nThe failure is rarely dramatic. It is a slow accumulation of small wrong numbers that nobody can date.\n\nOdoo scales because the record is the system, not a file someone owns.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #Spreadsheets #Scaling #SingaporeBusiness",
+                      "facebook":  "Spreadsheets don\u0027t scale. Odoo ERP does. 📈\n\nA spreadsheet has no concept of a second user, a permission or a history.\n\nFine at ten transactions a week. Untenable at a thousand.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #Spreadsheets #TechNext #SingaporeBusiness #Scaling",
+                      "instagram":  "Spreadsheets don\u0027t scale. Odoo ERP does. 📈\n\nA spreadsheet has no concept of:\n👥 A second user\n🔒 A permission\n🕓 A history\n\nFine at 10 transactions a week. Untenable at 1,000.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Spreadsheets #ExcelProblems #ERP #ScalingUp #BusinessGrowth #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  28,
+                      "date":  "2026-09-27",
+                      "dow":  "Sun",
+                      "video":  "v38",
+                      "title":  "Streamlined stock management",
+                      "theme":  "Inventory",
+                      "linkedin":  "Receipts on one side, delivery orders on the other, and a store room in between that everyone describes slightly differently.\n\nOdoo Inventory gives that middle a single screen: what is arriving, what is going out, what is on the shelf right now, and who moved it.\n\nStock stops being a monthly argument and becomes a number you can act on.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #InventoryManagement #Warehouse #SupplyChain #SingaporeBusiness",
+                      "facebook":  "Streamlined stock management for your business! 📦\n\nWhat is arriving, what is going out, what is on the shelf right now — and who moved it.\n\nOne screen. Stock stops being a monthly argument.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #InventoryManagement #Warehouse #TechNext #SingaporeBusiness #StockControl",
+                      "instagram":  "Streamlined stock management for your business 📦\n\n📥 What\u0027s arriving\n📤 What\u0027s going out\n📊 What\u0027s on the shelf right now\n👤 Who moved it\n\nOne screen. No more monthly arguments.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #InventoryManagement #StockControl #Warehouse #Logistics #SupplyChain #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  29,
+                      "date":  "2026-09-28",
+                      "dow":  "Mon",
+                      "video":  "v34",
+                      "title":  "Stop doing it manually",
+                      "theme":  "Automation",
+                      "linkedin":  "Five things most teams still do by hand that Odoo does better: raising the invoice, chasing the payment, reordering stock, posting the supplier bill, and building the same weekly report.\n\nNone of them are hard. All of them are repetitive, and repetition is where humans make mistakes and software does not.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Automation #Productivity #ERP #SingaporeBusiness",
+                      "facebook":  "Stop doing it manually. 🙈\n\n5 business tasks Odoo ERP handles better than you:\n1️⃣ Raising the invoice\n2️⃣ Chasing the payment\n3️⃣ Reordering stock\n4️⃣ Posting the supplier bill\n5️⃣ Building the weekly report\n\nNone are hard. All are repetitive — and that is where people slip and software doesn\u0027t.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Automation #Productivity #TechNext #SingaporeBusiness",
+                      "instagram":  "Stop doing it manually. 🙈\n\n5 tasks Odoo ERP handles better than you:\n\n1️⃣ Raising the invoice\n2️⃣ Chasing the payment\n3️⃣ Reordering stock\n4️⃣ Posting the supplier bill\n5️⃣ Building the weekly report\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Automation #BusinessAutomation #Productivity #WorkSmarter #Efficiency #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  30,
+                      "date":  "2026-09-29",
+                      "dow":  "Tue",
+                      "video":  "v40",
+                      "title":  "Efficient client communication for manufacturing",
+                      "theme":  "Manufacturing",
+                      "linkedin":  "In manufacturing the sale does not end at the order. The customer wants to know where it is, when it ships, and what changed — and those answers live on the production floor, not in the CRM.\n\nOdoo connects them. Sales can see the job status without walking to the floor, and the customer gets an answer the same day they ask.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Manufacturing #CRM #CustomerExperience #SingaporeBusiness",
+                      "facebook":  "Efficient client communication for manufacturing. 🏭\n\nThe sale doesn\u0027t end at the order. Customers want to know where it is and when it ships — and those answers live on the floor, not in the CRM.\n\nOdoo connects them. Sales sees job status without walking to the floor.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Manufacturing #CRM #TechNext #SingaporeBusiness #CustomerExperience",
+                      "instagram":  "Efficient client communication for manufacturing 🏭\n\n\"Where is my order?\"\n\nThat answer lives on the production floor — not in the CRM.\n\nOdoo connects them. Same-day answers, no walking to the floor.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Manufacturing #MRP #CRM #CustomerExperience #SupplyChain #Industry40 #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  31,
+                      "date":  "2026-09-30",
+                      "dow":  "Wed",
+                      "video":  "v06",
+                      "title":  "Stop managing tools. Start running your business.",
+                      "theme":  "Consolidation",
+                      "linkedin":  "There is a point where the software stops serving the business and the business starts serving the software.\n\nYou notice it in the admin: the integrations that break, the licences to renew, the vendor calls, the person whose real job has quietly become keeping the tools talking.\n\nOne system removes that job entirely.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #Productivity #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "Stop managing tools. Start running your business. 🎯\n\nThere is a point where the software stops serving the business and the business starts serving the software.\n\nBroken integrations. Licence renewals. Someone whose real job is keeping the tools talking.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #Productivity #TechNext #SingaporeBusiness #BusinessAutomation",
+                      "instagram":  "Stop managing tools. Start running your business. 🎯\n\nBroken integrations.\nLicence renewals.\nVendor calls.\n\nSomeone\u0027s real job has quietly become keeping the tools talking.\n\nOne system removes that job.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #Productivity #BusinessAutomation #WorkSmarter #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  32,
+                      "date":  "2026-10-01",
+                      "dow":  "Thu",
+                      "video":  "v26",
+                      "title":  "Enterprise-grade systems, now within reach",
+                      "theme":  "SME",
+                      "linkedin":  "For twenty years, real ERP meant a seven-figure project and a two-year rollout. That is why small businesses ran on spreadsheets — not preference, arithmetic.\n\nThat arithmetic has changed. The same capability large enterprises pay millions for is now available to a fifteen-person company, switched on module by module.\n\nPowerful Odoo ERP and AI automation, built for businesses of every size.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #SME #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "Enterprise-grade systems, now within reach. 💼\n\nReal ERP used to mean a seven-figure project and a two-year rollout. That is why small businesses ran on spreadsheets — arithmetic, not preference.\n\nThat arithmetic has changed.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #SME #TechNext #SingaporeBusiness #DigitalTransformation",
+                      "instagram":  "Enterprise-grade systems. Now within reach. 💼\n\nReal ERP used to mean a 7-figure project and a 2-year rollout.\n\nThat\u0027s why small businesses ran on spreadsheets — arithmetic, not preference.\n\nThe arithmetic changed. ✅\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #SME #SmallBusiness #BusinessGrowth #DigitalTransformation #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #StartupSG #Reels"
+                  },
+                  {
+                      "day":  33,
+                      "date":  "2026-10-02",
+                      "dow":  "Fri",
+                      "video":  "v45",
+                      "title":  "All you need to digitize your business",
+                      "theme":  "Field service",
+                      "linkedin":  "Digitising a business is rarely one big project. It is a sequence of small ones — the job sheet that stops being paper, the route that plans itself, the report that writes itself on the way back.\n\nOdoo covers the sequence in one system, so each step you take makes the next one cheaper rather than adding another tool to connect.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #FieldService #DigitalTransformation #ERP #SingaporeBusiness",
+                      "facebook":  "All you need to digitize your business. 🗺️\n\nDigitising is rarely one big project — it is a sequence of small ones. The job sheet that stops being paper. The route that plans itself. The report that writes itself.\n\nOne system, so each step makes the next one cheaper.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #FieldService #DigitalTransformation #TechNext #SingaporeBusiness",
+                      "instagram":  "All you need to digitize your business 🗺️\n\nDigitising isn\u0027t one big project.\n\nIt\u0027s a sequence of small ones:\n📋 The job sheet that stops being paper\n🚚 The route that plans itself\n📊 The report that writes itself\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #FieldService #DigitalTransformation #ERP #BusinessAutomation #Operations #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  34,
+                      "date":  "2026-10-03",
+                      "dow":  "Sat",
+                      "video":  "v10",
+                      "title":  "One unified system beats working in silos",
+                      "theme":  "Consolidation",
+                      "linkedin":  "Silos are not a technology problem. They are a technology problem that became a communication problem and then became a culture problem.\n\nWhen sales cannot see stock and finance cannot see either, people stop asking and start guessing — and the guessing becomes normal.\n\nOne unified system is smarter than doing it separately, mostly because it changes what people are able to know.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #DataSilos #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "Using one unified system is way smarter than working in silos. 🔗\n\nWhen sales cannot see stock and finance cannot see either, people stop asking and start guessing — and the guessing becomes normal.\n\nOne system changes what people are able to know.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #DataSilos #TechNext #SingaporeBusiness #BusinessAutomation",
+                      "instagram":  "One unified system \u003e working in silos 🔗\n\nWhen sales can\u0027t see stock and finance can\u0027t see either, people stop asking and start guessing.\n\nThen the guessing becomes normal.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #DataSilos #BusinessIntelligence #BusinessAutomation #DigitalTransformation #Teamwork #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  35,
+                      "date":  "2026-10-04",
+                      "dow":  "Sun",
+                      "video":  "v39",
+                      "title":  "Full device traceability",
+                      "theme":  "Traceability",
+                      "linkedin":  "When a customer calls about one unit, you need its whole history: which batch, which components, who assembled it, when it shipped, what was repaired.\n\nWithout serial tracking that is an afternoon of detective work. With it, it is one search.\n\nOdoo tracks lots and serials end to end — the difference between a targeted recall and a total one.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Traceability #Manufacturing #QualityControl #SingaporeBusiness",
+                      "facebook":  "We can do full device traceability. 🔍\n\nA customer calls about one unit. Which batch? Which components? Who assembled it? When did it ship?\n\nWithout serial tracking that is an afternoon of detective work. With it, one search.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Traceability #Manufacturing #TechNext #SingaporeBusiness #QualityControl",
+                      "instagram":  "Full device traceability 🔍\n\nOne customer. One unit. One question.\n\n📦 Which batch?\n🔩 Which components?\n👤 Who assembled it?\n🚚 When did it ship?\n\nAn afternoon of detective work → one search.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Traceability #Manufacturing #QualityControl #SupplyChain #Industry40 #Compliance #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  36,
+                      "date":  "2026-10-05",
+                      "dow":  "Mon",
+                      "video":  "v14",
+                      "title":  "Your business deserves smarter foundations",
+                      "theme":  "Foundations",
+                      "linkedin":  "Most businesses do not fail at strategy. They fail at the plumbing underneath it — the handover that drops things, the number nobody trusts, the process that only one person knows.\n\nStrategy assumes the foundations hold. When they do not, every plan quietly costs more than it should.\n\nGood systems are not an upgrade. They are the floor the rest of it stands on.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #BusinessStrategy #Operations #SingaporeBusiness",
+                      "facebook":  "Your business deserves smarter foundations. 🏗️\n\nMost businesses do not fail at strategy. They fail at the plumbing underneath it — the handover that drops things, the number nobody trusts, the process only one person knows.\n\nGood systems are not an upgrade. They are the floor.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #BusinessStrategy #TechNext #SingaporeBusiness #Operations",
+                      "instagram":  "Your business deserves smarter foundations. 🏗️\n\nMost businesses don\u0027t fail at strategy.\n\nThey fail at the plumbing underneath:\n❌ The handover that drops things\n❌ The number nobody trusts\n❌ The process only one person knows\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #BusinessStrategy #Operations #BusinessGrowth #DigitalTransformation #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  37,
+                      "date":  "2026-10-06",
+                      "dow":  "Tue",
+                      "video":  "v22",
+                      "title":  "Cloud-based digital transformation for enterprises",
+                      "theme":  "Enterprise",
+                      "linkedin":  "Enterprise transformation stalls for a predictable reason: the plan is too big to finish before the business changes underneath it.\n\nCloud-based Odoo lets you move in increments that each pay for themselves — one department, one process, one quarter at a time — without a server room or a two-year freeze.\n\nAccelerating digital transformation, without betting the company on a single go-live.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #DigitalTransformation #CloudERP #Enterprise #SingaporeBusiness",
+                      "facebook":  "Accelerating cloud-based digital transformation for enterprises with Odoo. ☁️\n\nBig transformations stall because the plan is too big to finish before the business changes underneath it.\n\nCloud Odoo moves in increments that each pay for themselves — no server room, no two-year freeze.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #DigitalTransformation #CloudERP #TechNext #SingaporeBusiness #Enterprise",
+                      "instagram":  "Cloud-based digital transformation for enterprises ☁️\n\nBig transformations stall because the plan is too big to finish before the business changes underneath it.\n\nMove in increments that each pay for themselves.\n\nNo server room. No two-year freeze.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #DigitalTransformation #CloudERP #Enterprise #ERP #BusinessAutomation #CloudComputing #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  38,
+                      "date":  "2026-10-07",
+                      "dow":  "Wed",
+                      "video":  "v17",
+                      "title":  "Multiple apps, one ERP system",
+                      "theme":  "Consolidation",
+                      "linkedin":  "CRM, inventory, accounting, HR, projects, e-commerce, helpdesk, manufacturing.\n\nIn most companies those are eight products from eight vendors on eight renewal dates, held together by integrations somebody has to maintain.\n\nIn Odoo they are eight apps in one system that were built to share a database. Nothing to connect, because nothing was ever apart.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #BusinessApps #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "Multiple apps, one ERP system. 🧩\n\nCRM, inventory, accounting, HR, projects, e-commerce, helpdesk, manufacturing.\n\nIn most companies: 8 products, 8 vendors, 8 renewal dates, held together by integrations someone maintains.\n\nIn Odoo: 8 apps, one database. Nothing to connect, because nothing was ever apart.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #BusinessApps #TechNext #SingaporeBusiness",
+                      "instagram":  "Multiple apps. One ERP system. 🧩\n\nCRM • Inventory • Accounting • HR • Projects • eCommerce • Helpdesk • Manufacturing\n\nMost companies: 8 vendors, 8 renewals, integrations someone has to maintain.\n\nOdoo: one database. Nothing to connect.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #BusinessApps #CRM #InventoryManagement #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  39,
+                      "date":  "2026-10-08",
+                      "dow":  "Thu",
+                      "video":  "v37",
+                      "title":  "More breakthroughs with Odoo modules",
+                      "theme":  "Modules",
+                      "linkedin":  "The best thing about a modular system is that you never have to solve everything at once.\n\nStart with the one process that hurts most. Get it working. Then switch on the next module — already connected, already reading the same data, no migration project attached.\n\nProgress compounds instead of resetting.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #Modules #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "More breakthroughs with every Odoo ERP module. 🧱\n\nThe best thing about a modular system: you never have to solve everything at once.\n\nStart with the process that hurts most. Then switch on the next module — already connected, no migration project.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #TechNext #SingaporeBusiness #DigitalTransformation #BusinessAutomation",
+                      "instagram":  "More breakthroughs with Odoo ERP modules 🧱\n\nYou never have to solve everything at once.\n\n1️⃣ Start with the process that hurts most\n2️⃣ Get it working\n3️⃣ Switch on the next — already connected\n\nProgress compounds instead of resetting.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #BusinessAutomation #DigitalTransformation #Scalable #BusinessGrowth #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  40,
+                      "date":  "2026-10-09",
+                      "dow":  "Fri",
+                      "video":  "v01",
+                      "title":  "All your business on one platform",
+                      "theme":  "Platform",
+                      "linkedin":  "Accounting, CRM, inventory, POS, e-commerce, website, HR, helpdesk, field service, manufacturing, purchasing, projects.\n\nIt is a genuinely long list, and every item on it is something a growing business eventually needs.\n\nThe question is not whether you will run all of it. It is whether it will be one platform or twelve subscriptions.\n\nTechNext is an Odoo Ready Partner. Book a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #BusinessPlatform #DigitalTransformation #SingaporeBusiness",
+                      "facebook":  "All your business on one platform. 🌐\n\nAccounting. CRM. Inventory. POS. eCommerce. Website. HR. Helpdesk. Field service. Manufacturing.\n\nEvery growing business eventually needs all of it. The only question is whether it is one platform or twelve subscriptions.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #TechNext #SingaporeBusiness #DigitalTransformation #BusinessAutomation",
+                      "instagram":  "All your business on one platform. 🌐\n\nAccounting • CRM • Inventory • POS • eCommerce • Website • HR • Helpdesk • Manufacturing\n\nYou\u0027ll eventually need all of it.\n\nOne platform, or twelve subscriptions?\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #BusinessPlatform #AllInOne #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  41,
+                      "date":  "2026-10-10",
+                      "dow":  "Sat",
+                      "video":  "v42",
+                      "title":  "Unleash your company\u0027s growth potential",
+                      "theme":  "Growth",
+                      "linkedin":  "Most companies are not held back by demand. They are held back by what they can process — the orders they can fulfil, the quotes they can turn around, the customers they can serve properly at once.\n\nThat ceiling is usually operational, not commercial. Which means it can be raised.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #BusinessGrowth #ERP #Operations #SingaporeBusiness",
+                      "facebook":  "Unleash your company\u0027s growth potential. 🚀\n\nMost companies are not held back by demand — they are held back by what they can process. The orders they can fulfil. The quotes they can turn around.\n\nThat ceiling is operational, not commercial. Which means it can be raised.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #BusinessGrowth #ERP #TechNext #SingaporeBusiness #Operations",
+                      "instagram":  "Unleash your company\u0027s growth potential 🚀\n\nMost companies aren\u0027t held back by demand.\n\nThey\u0027re held back by what they can process:\n📦 Orders they can fulfil\n📄 Quotes they can turn around\n👥 Customers they can serve at once\n\nThat ceiling is operational. It can be raised.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #BusinessGrowth #ScalingUp #Entrepreneur #Operations #BusinessAutomation #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  42,
+                      "date":  "2026-10-11",
+                      "dow":  "Sun",
+                      "video":  "v25",
+                      "title":  "Choosing an ERP partner? Choose certified.",
+                      "theme":  "Partner",
+                      "linkedin":  "The software is the easy part. Most ERP projects that disappoint were not beaten by the product — they were beaten by a configuration nobody understood well enough to get right.\n\nA certified partner has done the version you are about to do, in a business shaped like yours, and knows which defaults to leave alone.\n\nTechNext is an Odoo Ready Partner.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #Consulting #SingaporeBusiness",
+                      "facebook":  "Choosing an ERP partner? Choose certified. ✅\n\nThe software is the easy part. Most disappointing ERP projects were not beaten by the product — they were beaten by a configuration nobody understood well enough.\n\nTechNext is an Odoo Ready Partner.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #TechNext #SingaporeBusiness #Consulting #DigitalTransformation",
+                      "instagram":  "Choosing an ERP partner? Choose certified. ✅\n\nThe software is the easy part.\n\nMost disappointing ERP projects weren\u0027t beaten by the product — they were beaten by a configuration nobody understood.\n\nTechNext is an Odoo Ready Partner. 🏅\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #ERPImplementation #Consulting #DigitalTransformation #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Certified #Reels"
+                  },
+                  {
+                      "day":  43,
+                      "date":  "2026-10-12",
+                      "dow":  "Mon",
+                      "video":  "v16",
+                      "title":  "Odoo ERP done right with TechNext",
+                      "theme":  "Partner",
+                      "linkedin":  "An Odoo licence gives you the software. It does not give you a working business system.\n\nBetween the two sits the actual work: your chart of accounts, your products and variants, your tax treatment, your approval flows, your data migrated and reconciled, and your team trained on the version you are actually running.\n\nThat gap is what we do.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERPImplementation #Consulting #SingaporeBusiness",
+                      "facebook":  "Odoo ERP system, done right with TechNext! 🙌\n\nA licence gives you the software. It does not give you a working business system.\n\nBetween the two: your chart of accounts, products and variants, tax treatment, approval flows, migrated data and a trained team.\n\nThat gap is what we do.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERPImplementation #TechNext #SingaporeBusiness #DigitalTransformation",
+                      "instagram":  "Odoo ERP system — done right with TechNext! 🙌\n\nA licence gives you software.\nNot a working business system.\n\nBetween the two:\n📊 Your chart of accounts\n📦 Your products \u0026 variants\n🧾 Your tax treatment\n✅ Your approvals\n👥 Your team, trained\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERPImplementation #Consulting #DigitalTransformation #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #Reels"
+                  },
+                  {
+                      "day":  44,
+                      "date":  "2026-10-13",
+                      "dow":  "Tue",
+                      "video":  "v00",
+                      "title":  "Team up with TechNext for an optimized workflow",
+                      "theme":  "Brand",
+                      "linkedin":  "A workflow is optimised when nobody has to remember anything for it to happen.\n\nGetting there is less about software than about mapping what your team actually does — including the workarounds nobody documented — and then building the system around that instead of around the brochure.\n\nThat is the part we do with you, not to you.\n\nTechNext is an Odoo Ready Partner. Book a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #Workflow #ERP #Consulting #SingaporeBusiness",
+                      "facebook":  "For an optimized workflow — team up with TechNext! 🤝\n\nA workflow is optimised when nobody has to remember anything for it to happen.\n\nGetting there means mapping what your team actually does — workarounds included — and building around that, not around the brochure.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #Workflow #TechNext #SingaporeBusiness #BusinessAutomation #DigitalTransformation",
+                      "instagram":  "For an optimized workflow — team up with TechNext! 🤝\n\nA workflow is optimised when nobody has to remember anything for it to happen.\n\nWe map what your team actually does — workarounds included — then build around that.\n\nWith you, not to you.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #Workflow #BusinessAutomation #Productivity #Consulting #DigitalTransformation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #Reels"
+                  },
+                  {
+                      "day":  45,
+                      "date":  "2026-10-14",
+                      "dow":  "Wed",
+                      "video":  "v11",
+                      "title":  "Ready to see what Odoo can do for your business?",
+                      "theme":  "CTA",
+                      "linkedin":  "Thirty minutes, no slides, no obligation.\n\nTell us how the work actually flows through your business right now — including the bits held together by a spreadsheet and someone\u0027s memory — and we will tell you honestly which parts Odoo would fix, which parts it would not, and roughly what it would take.\n\nIf the answer is that you do not need us yet, we will say so.\n\nBook a free 30-minute discovery call → www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #ERP #DigitalTransformation #Consulting #SingaporeBusiness",
+                      "facebook":  "Ready to see what Odoo can do for your business? 👀\n\n30 minutes. No slides. No obligation.\n\nTell us how work actually flows through your business — spreadsheets and memory included — and we will tell you honestly what Odoo would fix, what it would not, and what it would take.\n\nIf you do not need us yet, we will say so.\n\n👉 Free 30-minute discovery call: www.technext.asia\n📧 hello@technext.asia | 📞 +65 8839 6998\n\n#Odoo #OdooPartner #ERP #TechNext #SingaporeBusiness #DigitalTransformation #FreeConsultation",
+                      "instagram":  "Ready to see what Odoo can do for your business? 👀\n\n⏱️ 30 minutes\n🚫 No slides\n🚫 No obligation\n\nTell us how work actually flows — spreadsheets and memory included.\n\nWe\u0027ll tell you what Odoo fixes, what it doesn\u0027t, and what it takes.\n\nIf you don\u0027t need us yet, we\u0027ll say so.\n\n🔗 Free 30-min discovery call — link in bio\n📧 hello@technext.asia | 📞 +65 8839 6998\n🌐 www.technext.asia\n\n#Odoo #OdooERP #OdooPartner #TechNext #ERP #FreeConsultation #DigitalTransformation #BusinessAutomation #SingaporeBusiness #SGBusiness #SMESingapore #SmallBusinessOwner #BusinessGrowth #Reels"
+                  }
+              ]
+}
